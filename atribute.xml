@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<school>
+    <student class= "1">
+        <name>moiz hussain</name>
+        <gmail>moiz@gmail.com</gmail>
+    </student>
+
+
+    <student class= "2">
+        <name>moiz hussain</name>
+        <gmail>moiz@gmail.com</gmail>
+    </student>
+</school>
